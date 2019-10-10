@@ -1,0 +1,14 @@
+c:\users\jv025\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\jv025\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\jv025\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\jv025\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Calculator.csprojAssemblyReference.cache
+c:\users\jv025\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+c:\users\jv025\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\jv025\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\John\Documents\Visual Studio 2017\CIS3343 Assignment1 Velazquez.John\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\John\Documents\Visual Studio 2017\CIS3343 Assignment1 Velazquez.John\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\John\Documents\Visual Studio 2017\CIS3343 Assignment1 Velazquez.John\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\John\Documents\Visual Studio 2017\CIS3343 Assignment1 Velazquez.John\ConsoleApp1\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2017\CIS3343 Assignment1 Velazquez.John\ConsoleApp1\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\John\Documents\Visual Studio 2017\CIS3343 Assignment1 Velazquez.John\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\John\Documents\Visual Studio 2017\CIS3343 Assignment1 Velazquez.John\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
